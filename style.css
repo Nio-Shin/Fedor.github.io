@@ -1,0 +1,28 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.container {
+  width: 1000px;
+  margin: auto;
+  margin-top: 50px;
+}
+body{
+  background-color: black;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  background-image: url('kruto.gif');
+  background-size: center;
+}
+.box {
+  width: 400px;
+  height: 350px;
+  border: 10px solid white;
+  border-image: linear-gradient(45deg, red, blue) 1;
+  background-color: black;
+}
+
