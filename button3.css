@@ -65,3 +65,8 @@
     font-size: 21px;
     cursor: pointer;
 }
+
+.textInPozor {
+    color: white;
+    font-size: 20px;
+}
